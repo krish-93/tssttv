@@ -1,0 +1,14 @@
+{
+  "playlists": [
+    {
+      "id": "dev1",
+      "name": "My Test Server 1",
+      "url": "https://raw.githubusercontent.com/gopigk08/omni_test/refs/heads/main/teluguxc.m3u"
+    },
+    {
+      "id": "dev2",
+      "name": "My Test Server 2",
+      "url": "https://raw.githubusercontent.com/gopigk08/gk/refs/heads/main/TP-no-token.m3u"
+    }
+  ]
+}
