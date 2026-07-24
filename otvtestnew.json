@@ -9,6 +9,11 @@
       "id": "dev2",
       "name": "My Test Server 2",
       "url": "https://raw.githubusercontent.com/krish-93/gugl/refs/heads/main/gioplus.m3u"
+    },
+      {
+      "id": "dev3",
+      "name": "My Test Server 3",
+      "url": "https://raw.githubusercontent.com/krish-93/bhai/refs/heads/main/ksrvithlokulu.m3u"
     }
   ]
 }
