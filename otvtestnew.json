@@ -2,7 +2,7 @@
   "playlists": [
     {
       "id": "main",
-      "name": "S1-JIO TV",
+      "name": "S1-JIO TV new",
       "url": "https://raw.githubusercontent.com/krish-93/gugl/refs/heads/main/gio.m3u",
       "priority": 1
     },
