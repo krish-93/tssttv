@@ -3,12 +3,12 @@
     {
       "id": "dev1",
       "name": "My Test Server 1",
-      "url": "https://raw.githubusercontent.com/krish-93/gugl/refs/heads/main/mixed_live.m3u"
+      "url": "https://raw.githubusercontent.com/krish-93/gugl/refs/heads/main/zsun.m3u"
     },
     {
       "id": "dev2",
       "name": "My Test Server 2",
-      "url": "https://omnitv.pages.dev/gioplus.m3u"
+      "url": "https://raw.githubusercontent.com/krish-93/gugl/refs/heads/main/samlg.m3u"
     },
       {
       "id": "dev3",
